@@ -1,6 +1,5 @@
 ---
-title: "Lepi Lepi"
-date: "2024-06-01"
+title: "Unknown lepidoptera"
 categories: [Müllring]
 image: "image.jpg"
 ---
