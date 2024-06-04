@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Don't ignore these files and folders
+
+# ...even if they are in subdirectories
+!*/
+
+!./_site/**
