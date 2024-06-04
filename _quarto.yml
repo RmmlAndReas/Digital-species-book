@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Digital species book"
+  navbar:
+    left:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com/
+    sidebar:
+      pinned: True
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+
+
+
+
