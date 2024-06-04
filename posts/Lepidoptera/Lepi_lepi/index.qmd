@@ -5,6 +5,8 @@ categories: [Müllring]
 image: "image.jpg"
 ---
 
+### Introduction
+
 This is the first post in a Quarto blog. Welcome!
 
 ![Alt text](image.JPG){width="431"}

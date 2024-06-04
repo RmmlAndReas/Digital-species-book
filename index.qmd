@@ -1,6 +1,7 @@
 ---
 title: "Digital species book"
 toc: true
+
 listing:
   - id: Hymenoptera
     contents: "posts/Hymenoptera/**/*.qmd"

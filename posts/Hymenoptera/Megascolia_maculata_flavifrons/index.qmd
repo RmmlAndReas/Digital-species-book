@@ -5,4 +5,4 @@ categories: [Beach]
 image: "image.jpg"
 ---
 
-![Alt text](image.JPG)
+![Alt text](image.jpg){width="501"}
