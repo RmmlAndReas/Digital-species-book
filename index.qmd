@@ -23,8 +23,8 @@ listing:
     fields: [image, title]
     image-height: 250px
 
-page-layout: article
-title-block-banner: false
+page-layout: full
+title-block-banner: true
 ---
 
 ## Hymenoptera
