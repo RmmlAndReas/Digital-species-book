@@ -2,7 +2,8 @@
   "listingMap": {
     "index.qmd": [
       "posts/Hymenoptera/**/*.qmd",
-      "posts/Lepidoptera/**/*.qmd"
+      "posts/Lepidoptera/**/*.qmd",
+      "posts/Coleoptera/**/*.qmd"
     ]
   }
 }
